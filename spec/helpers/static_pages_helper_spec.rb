@@ -1,15 +1,15 @@
 require 'spec_helper'
 
 # Specs in this file have access to a helper object that includes
-# the StaticPagesHelper. For example:
+# the StaticPageHelper. For example:
 #
-# describe StaticPagesHelper do
-#   describe "string concat" do
-#     it "concats two strings with spaces" do
-#       helper.concat_strings("this","that").should == "this that"
-#     end
-#   end
+# describe StaticPageHelper do
+# describe "string concat" do
+# it "concats two strings with spaces" do
+# helper.concat_strings("this","that").should == "this that"
 # end
-describe StaticPagesHelper do
+# end
+# end
+describe StaticPageHelper do
   pending "add some examples to (or delete) #{__FILE__}"
 end
